@@ -1,0 +1,65 @@
+Greetings from Team DPSN!
+
+We have created a website on Fashion Waste.
+
+We have created 5 pages
+  - Home Page 
+  - FAQ Page
+  - Impact of Fashion Waste Page 
+  - Solutions to prevent Fashion Waste Page
+  - Brands contributon to sustainable development Page 
+
+
+To open the website, click on `index.html` file.
+You can also visit   to view the website.
+
+Features on 
+ (i) Home Page
+        - particles in the background
+        - navbar linked with other pages
+        - image slider in the background
+        - typing effect in the text
+        - animated arrow which is linked to the next section
+        - headings of each section has a hover effect
+        - a pie chart which shows final share of clothing waste per year
+        - the text to the side of the pie chart has a hover effect 
+        - a video with music 
+        - radio buttons in the footer which are linked to a google form for feedbacks
+        - back to top button
+        - custom scrollbar
+
+(ii) FAQ Page
+        - typing effect
+        - particles in the background
+        - faq in the form of accordians
+        - navbar linked with other pages
+        - title of the section has a hover effect
+        - back to top button 
+        - custom scrollbar
+
+(iii) Impact Page
+        - particles in the background 
+        - typing effect
+        - hover effect on all the elements 
+        - automatic slider with text
+        - hover effect on the titles of the section
+        - back to top button 
+        - custom scrollbar
+
+(iv)  Solutions Page 
+        - particles in the background
+        - typing effect
+        - animated icons 
+        - youtube video of shri narendra modi speaking about sustainable development
+        - animated cards 
+        - gallery of students taking a step towards sustainable development 
+        - custom scrollbar
+        - back to top button
+
+(v)  Brands Page
+        - partcles in the background
+        - typing effect 
+        - cards with a hover card
+        - cards with a flip effect on hovering
+        - custom scrollbar
+        - back to top button
