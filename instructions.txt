@@ -11,7 +11,7 @@ We have created 5 pages
 
 
 To open the website, click on `index.html` file.
-You can also visit   to view the website.
+You can also visit https://dps-noida-30.github.io/interdps/ to view the website.
 
 Features on 
  (i) Home Page
@@ -36,6 +36,7 @@ Features on
         - title of the section has a hover effect
         - back to top button 
         - custom scrollbar
+        - know more button linked with a google form
 
 (iii) Impact Page
         - particles in the background 
@@ -63,3 +64,6 @@ Features on
         - cards with a flip effect on hovering
         - custom scrollbar
         - back to top button
+
+
+#The website has been made with HTML, CSS and JS.
